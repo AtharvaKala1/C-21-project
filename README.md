@@ -1,2 +1,2 @@
-# C-21-project
-wall changes the colour when bullet hits
+# C21-project
+Bullets-Wall
